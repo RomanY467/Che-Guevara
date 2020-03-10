@@ -2,8 +2,6 @@
 
 Che Guevara himself personified in a discord bot.
 
-Incomplete documentation (I will never complete it)
-
 Communicate with the creator for questions or complaints. (I probably won't answer you anyways.)
 
 
