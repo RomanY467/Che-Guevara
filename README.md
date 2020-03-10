@@ -1,6 +1,6 @@
 # Getting Started
 
-Che Guevara himself personified in a Bot de discord.
+Che Guevara himself personified in a discord bot.
 
 Incomplete documentation (I will never complete it)
 
